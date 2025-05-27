@@ -76,7 +76,7 @@ KEY TECHNICAL STEPS
 - Merged transactional and demographic data  
 - Performed time-series and segment-based analysis  
 
-DATA SOURCES  
+FILES
 - Transaction data: QVI_transaction_data.xlsx  
 - Customer data: QVI_purchase_behaviour.csv  
 
