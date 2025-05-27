@@ -30,7 +30,8 @@ Thanks,
 
 Zilinka'
 # Data Source
-
+I got this dataset from Forage
+[download here](https://www.theforage.com/virtual-experience/NkaC7knWtjSbi6aYv/quantium/data-analytics-rqkb/data-preparation-and-customer-analytics)
 # Objectives
 
 1. LOAD NECESSARY LIBRARIES  
